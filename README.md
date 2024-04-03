@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sujal Ram.
+- 👀 I’m interested in exploring innovative technologies and their applications in solving real-world problems.
+- 🌱 I’m currently learning Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning.
+- 💞️ I’m looking to collaborate on projects that involve AI, data science, or software development.
+- 📫 You can reach me via email at sujalcodesmith@gmail.com or connect with me on LinkedIn
+- 😄 Pronouns: He/Him
